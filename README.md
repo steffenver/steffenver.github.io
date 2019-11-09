@@ -7,9 +7,9 @@ I work as a Research Analyst in the Google Market Insights team, analyzing user 
 
 Find some links to other places where I can be found online. 
 
-- [**LinkedIn**](https://www.linkedin.com/in/steffenver/)
-- [**Github**](https://www.github.com/steffenver/)
-- [**Twitter**](https://www.twitter.com/steffenver/)
+- [LinkedIn](https://www.linkedin.com/in/steffenver/)
+- [Github](https://www.github.com/steffenver/)
+- [Twitter](https://www.twitter.com/steffenver/)
 
 If any new network emerges, try finding me _@steffenver_.
 
