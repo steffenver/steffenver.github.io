@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to @steffenver
 
 Hi there, I am Steffen.
 I work as a Research Analyst in the Google Market Insights team, analyzing user behavior and advertisement effectiveness. Recently, I finished my Masters in Advanced Analytics at the Information Management School of Universidade Nova de Lisboa and submitted my masters thesis on potential improvements in credit scoring models using novel data sources. I was previously working in the Data Science team at the Berlin-based challenger bank N26 and as a cooperative student at IBM. 
